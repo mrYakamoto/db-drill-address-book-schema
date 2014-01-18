@@ -1,6 +1,9 @@
-# Db Drill Address Book Schema 
+# Database   Drill Address Book Schema 
  
 ##Learning Competencies 
+
+* Design database schema from problem data
+* Model a one-to-many relationship in a relational database
 
 ##Summary 
 
@@ -12,17 +15,17 @@ Requirements:
 2. A group has a name
 3. A contact can belong to many groups, and a group has many contacts
 
-## Objectives
 
-### Design schema
+##Releases
+
+###Release 0 : Design schema
 
 Design a database schema for an address book with the above requirements.
 
-Use [SQL Designer](/sql.html) to create your schema.  When you are done, save the XML of your schema and copy it into the gist. Then, take a screenshot of your final schema design, and upload it using a free image-upload service like [Min.us](http://minus.com).  Paste the URL of the screenshot into your gist (before your XML code). 
+Use [SQL Designer][] to create your schema.  When you are done, save the XML of your schema and copy it to the source file `address_book_schema.md`. Then, take a screenshot of your final schema design, and upload it using a free image-upload service like [Min.us](http://minus.com).  Paste the URL of the screenshot into your file (before your XML code). 
 
-##Releases
-###Release 0 
-
-##Optimize Your Learning 
+<!-- ##Optimize Your Learning  -->
 
 ##Resources
+
+* [SQL Designer](https://socrates.devbootcamp.com//sql.html)
