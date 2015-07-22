@@ -3,7 +3,7 @@
 ##Learning Competencies 
 
 * Design database schema from problem data
-* Model a one-to-many relationship in a relational database
+* Model a many-to-many relationship in a relational database
 
 ##Summary 
 
